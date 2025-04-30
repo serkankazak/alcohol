@@ -2,7 +2,7 @@
 
 https://serkankazak.github.io/alcohol
 
-type followings line by line then press enter
+type something like followings line by line then press enter
 ```
 Tuborg Amber
 50
